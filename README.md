@@ -4,7 +4,7 @@
 🎓 Cursando **Análise e Desenvolvimento de Sistemas**  
 📍 Rio Negro, PR – Brasil  
 📬 Contato: [eduardoaugustin31@gmail.com](mailto:eduardoaugustin31@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/eduardo-reichardt) • [GitHub](https://github.com/Edureichardt)
+🔗 [LinkedIn](https://www.linkedin.com/in/eduardo-reichardt-6377b11a2/) • [GitHub](https://github.com/Edureichardt)
 
 ---
 
