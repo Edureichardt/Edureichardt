@@ -4,14 +4,13 @@
 🎓 Cursando **Análise e Desenvolvimento de Sistemas**  
 📍 Rio Negro, PR – Brasil  
 📬 Contato: [eduardoaugustin31@gmail.com](mailto:eduardoaugustin31@gmail.com)  
-🌐 Portfólio: Em breve  
 🔗 [LinkedIn](https://www.linkedin.com/in/eduardo-reichardt) • [GitHub](https://github.com/Edureichardt)
 
 ---
 
 ## 🧠 Sobre mim
 
-Sou desenvolvedor com experiência em criação de sites e aplicativos modernos, rápidos e intuitivos. Já desenvolvi projetos para **imobiliárias, escritórios de advocacia, salões de estética, quadras esportivas** e outros nichos, sempre focando na usabilidade e eficiência.
+Sou desenvolvedor com experiência em criação de sites e aplicativos modernos, rápidos e intuitivos. Já desenvolvi projetos para **imobiliárias, escritórios de advocacia ** e outros nichos, sempre focando na usabilidade e eficiência.
 
 Trabalho com as principais tecnologias do ecossistema web e mobile, buscando sempre evoluir e me atualizar com as melhores práticas do mercado.
 
@@ -47,10 +46,8 @@ Trabalho com as principais tecnologias do ecossistema web e mobile, buscando sem
 ## 📌 Projetos em destaque
 
 - **CA Imóveis** — site dinâmico para uma imobiliária com sistema de cadastro e busca de imóveis  
-- **Lash Sandy** — plataforma completa para agendamento de serviços de estética com sistema de fidelidade  
-- **MF Beach Tennis** — site de quadra de esportes com agendamento online e integração com WhatsApp  
 - **Site Advocacia** — presença online profissional com otimização SEO local  
-- *E muitos outros...*
+
 
 ---
 
